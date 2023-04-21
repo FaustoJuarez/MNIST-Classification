@@ -1,2 +1,4 @@
 # MNIST-Classification
 Deep Learning Project with MNIST Dataset
+
+In this project, I build an end-to-end deep learning pipeline using the MNIST dataset. The MNIST dataset is a collection of 70,000 images of handwritten digits, which is often used as a benchmark for image recognition tasks in machine learning.  Our pipeline involves preprocessing the data, choosing a deep learning framework (we use TensorFlow), defining a convolutional neural network (CNN) architecture, training the model on the training set, evaluating the model on the testing set, and deploying the model to a production environment.  Our goal is to achieve high accuracy on the testing set and demonstrate the feasibility of using deep learning for image recognition tasks. We also hope that this project serves as a helpful resource for anyone interested in learning about deep learning and working with the MNIST dataset.
